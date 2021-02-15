@@ -2,7 +2,7 @@
 name: Linked Mod Submission Request
 about: Request for your mod that is hosted elsewhere to be linked to the repository
 title: "[Linked Mod Submission Request]"
-labels: Mod Link Submission Request
+labels: ''
 assignees: SuperKael
 
 ---
@@ -16,4 +16,4 @@ assignees: SuperKael
 **Any other comments, requests, or questions related to your mod:**
 
 
-**Mod URL (Must link to an ini file that provides information about your mod)**
+**Mod URL (Must link to an ini file that provides information about your mod, or a GitHub releases page)**
