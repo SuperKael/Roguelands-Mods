@@ -16,4 +16,4 @@ assignees: SuperKael
 **Any other comments, requests, or questions related to your mod:**
 
 
-**Mod URL (Must link to an ini file that provides information about your mod, or a GitHub releases page)**
+**Mod URL (Must link to an ini file that provides information about your mod, or a GitHub releases page):**
