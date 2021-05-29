@@ -2,7 +2,7 @@
 name: Local Mod Submission Request
 about: Request for your mod to be added directly to, and hosted by, the repository
 title: "[Local Mod Submission Request]"
-labels: ''
+labels: Local Mod Submission Request
 assignees: SuperKael
 
 ---
