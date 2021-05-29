@@ -2,7 +2,7 @@
 name: Linked Mod Submission Request
 about: Request for your mod that is hosted elsewhere to be linked to the repository
 title: "[Linked Mod Submission Request]"
-labels: ''
+labels: Linked Mod Submission Request
 assignees: SuperKael
 
 ---
